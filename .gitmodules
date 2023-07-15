@@ -1,0 +1,3 @@
+[submodule "miprimerepo"]
+	path = miprimerepo
+	url = https://github.com/sarilurg/miprimerepo
